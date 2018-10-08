@@ -294,6 +294,9 @@ section a {
   display: block;
   clear: both;
 }
+.clearfix {
+    overflow: auto;
+}
 /********** Details **********/
 
 #details {
