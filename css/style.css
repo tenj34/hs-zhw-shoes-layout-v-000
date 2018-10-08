@@ -269,6 +269,10 @@ section a {
   float: left;
   width: 66%;
 }
+.col-1b{
+  float: left;
+  width: 30%;
+}
 
 .col-2{
   float: left;
